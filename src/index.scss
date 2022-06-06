@@ -1,0 +1,109 @@
+@import '~bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Macondo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Macondo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Handlee&family=Macondo&display=swap');
+body{
+   background-color: rgb(19, 3, 237);
+   // background-color: rgb(193, 4, 4);
+   background-image: url('./components/images/slider1.jpg');
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+
+.anand1{
+    position: absolute;
+    border-radius: 15%;
+    margin-top: 10%;
+    border-image: auto;
+    margin-left: 5%;
+}
+.my-statement{
+    
+    margin-top: 58%;
+    text-align: center;
+    color: aqua;
+    background-color:rgb(9, 3, 237); 
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+.head{
+   
+    align-items: center;
+    font-family: 'Macondo', cursive;
+    color: aqua; 
+    border-radius: 30px;
+    text-align: center;
+    
+    
+}
+
+.card-body{
+    background-color: rgb(30, 89, 220);
+    border-radius: 10px;
+    border-color: black;  
+}
+.write{
+    background-color: white;
+
+}
+
+.about-me {
+    background-color: blue;
+}
+.p-1-about{
+    margin-left: 55%;
+    margin-top: 10%;
+    color: aqua;
+    font-size: 28px;
+    font-family: 'Handlee', cursive;
+    
+}
+.res-ume{
+    background-color: blue;
+}
+
+.container1{
+    margin-top: 60px;
+    // padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 25%;
+}
+.row{
+   
+    background-color: aqua;
+    border-radius: 10px;
+    color:blue;
+}
+.btn{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: 5px;
+    border-color: black;
+
+}
+.maharaj{
+    // font-family: 'Cinzel', serif;
+    font-family: 'Macondo', cursive;
+    color:aqua;
+}
+.info{
+    text-align: center;
+    color: white;
+}
+.skills{
+    color: white;
+    margin-left: 3%;
+}
+.font{
+    font-family: 'Courgette', cursive;
+    //font-family: 'Macondo', cursive;
+    color:aqua;
+}
