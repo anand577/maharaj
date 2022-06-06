@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maharaj/static/css/main.6723b8a8.chunk.css",
+    "main.js": "/maharaj/static/js/main.f8e066b5.chunk.js",
+    "main.js.map": "/maharaj/static/js/main.f8e066b5.chunk.js.map",
+    "runtime-main.js": "/maharaj/static/js/runtime-main.f7385bdc.js",
+    "runtime-main.js.map": "/maharaj/static/js/runtime-main.f7385bdc.js.map",
+    "static/js/2.d37b4851.chunk.js": "/maharaj/static/js/2.d37b4851.chunk.js",
+    "static/js/2.d37b4851.chunk.js.map": "/maharaj/static/js/2.d37b4851.chunk.js.map",
+    "index.html": "/maharaj/index.html",
+    "static/css/main.6723b8a8.chunk.css.map": "/maharaj/static/css/main.6723b8a8.chunk.css.map",
+    "static/js/2.d37b4851.chunk.js.LICENSE.txt": "/maharaj/static/js/2.d37b4851.chunk.js.LICENSE.txt",
+    "static/media/me2.jpg": "/maharaj/static/media/me2.0754c969.jpg",
+    "static/media/index.scss": "/maharaj/static/media/slider1.9f99128e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7385bdc.js",
+    "static/js/2.d37b4851.chunk.js",
+    "static/css/main.6723b8a8.chunk.css",
+    "static/js/main.f8e066b5.chunk.js"
+  ]
+}
