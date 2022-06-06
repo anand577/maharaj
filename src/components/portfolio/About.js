@@ -58,7 +58,7 @@ function About () {
           <p></p>
           <h5>
             Some of my projects I have included here. I invite you to please look at
-            them on my <a href='projects'>projects page</a>.
+            them on my <a href='projects'>projects-page</a>.
           </h5>
         </div>
       </section>
